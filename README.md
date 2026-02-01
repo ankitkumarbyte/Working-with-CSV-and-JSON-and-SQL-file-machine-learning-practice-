@@ -75,6 +75,44 @@ This notebook focuses on database connectivity and SQL operations using Python.
 
 ---
 
+
+## 📝 Notes
+
+Ensure the MySQL server is running before executing SQL queries.
+
+Internet access is required to fetch CSV data from URLs.
+
+The SQL notebook assumes the world database already exists.
+
+File paths and credentials may need adjustment based on your system.
+
+## 🎯 Learning Objectives
+
+By completing this project, you will learn:
+
+How to handle CSV and structured data in Python
+
+How to fetch external data from URLs
+
+How to connect Python with relational databases
+
+How to execute SQL queries using Python
+
+How to analyze tabular data using Pandas
+
+## 👨‍💻 Intended Audience
+
+This project is suitable for:
+
+Beginners learning Python for data analysis
+
+Students working on college or university assignments
+
+Anyone practicing file handling and database connectivity in Python
+
+## 📜 License
+
+This project is created for educational purposes and is free to use and modify.
 ## ⚙️ Requirements
 
 Make sure the following are installed on your system.
